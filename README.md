@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" display="inline-block" margin-left="10px" src="https://thumbs.gfycat.com/DazzlingPolishedAfricanelephant-size_restricted.gif" alt="Life Size Movie   Clip with the doll typing random keys into the computer and the co-worker being confused." height="200">
 
-Hi, there! I'm Justice (yes, that's my real name) and I have a special interest in backend web development, especially making or working with APIs and Android development! 😄 
+Hi, there! I'm Justice (yes, that's my real name) and I am a computer enthusiast that has a love for learning about hardware and software. I especially making or working with APIs and Android development! 😄 
 
-I am a mentor on [Sololearn](https://www.sololearn.com/profile/24864653) and have an interest in learning computer science, doing so through [OSSU](https://github.com/ossu/computer-science).
+I am a mentor on [Sololearn](https://www.sololearn.com/profile/24864653), I am A+ certified through CompTIA and have an interest in learning computer science, doing so through [OSSU](https://github.com/ossu/computer-science).
 
 ## Toolbox:
 
