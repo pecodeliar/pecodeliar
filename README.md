@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hi, there! I'm Justice (yes, that's my real name) and I am a computer enthusiast that has a love for learning about hardware and software. I especially making or working with APIs and Android development! 😄 
 
-I am a mentor on [Sololearn](https://www.sololearn.com/profile/24864653), I am A+ certified through [CompTIA](https://www.comptia.org/certifications/a) and have an interest in learning computer science, doing so through [OSSU](https://github.com/ossu/computer-science).
+I am a mentor on [Sololearn](https://www.sololearn.com/profile/24864653), I am A+ certified through [CompTIA](https://www.comptia.org/certifications/a) and I am currently working towards a cybersecurity degree via [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html).
 
 ## Toolbox:
 
