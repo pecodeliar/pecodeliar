@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" display="inline-block" margin-left="10px" src="https://thumbs.gfycat.com/DazzlingPolishedAfricanelephant-size_restricted.gif" alt="Life Size Movie   Clip with the doll typing random keys into the computer and the co-worker being confused." height="200">
 
-Hi, there! I'm Justice (yes, that's my real name) and I am a computer enthusiast that has a love for learning about hardware and software. I especially making or working with APIs and Android development! 😄 
+Hi, there! I'm Justice (yes, that's my real name) and I am a computer enthusiast that has a love for learning about hardware and software. I especially love making or working with APIs and Android development! 😄 
 
 I am a mentor on [Sololearn](https://www.sololearn.com/profile/24864653), I am A+ and Network+ certified through [CompTIA](https://www.comptia.org/certifications/a) and I am currently working towards a cybersecurity degree via [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html).
 
